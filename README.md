@@ -1,2 +1,2 @@
 # 100DaysOfCode
-100 days of code project
+100 days of coding javascript projects
